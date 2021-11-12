@@ -21,7 +21,7 @@ padding: 10px;
 width: 100%;
 height: 30px;
     }
-    .newsletter input{
+    .newsletter input#email{
         border: solid 1px #cfcfcf;
        border-radius: 3px;
         display: block;
